@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "jimp": "0.2.x",
-    "fs": *,
-    "child_process": *,
-    "net": *,
-    "tls": *,
+    "fs": "*",
+    "child_process": "*",
+    "net": "*",
+    "tls": "*"
   },
   "main": "module.js"
 }
