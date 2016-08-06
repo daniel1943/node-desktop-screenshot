@@ -12,7 +12,11 @@
     "url": "https://github.com/johnvmt/node-desktop-screenshot"
   },
   "dependencies": {
-    "jimp": "0.2.x"
+    "jimp": "0.2.x",
+    "fs": *,
+    "child_process": *,
+    "net": *,
+    "tls": *,
   },
   "main": "module.js"
 }
